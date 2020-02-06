@@ -6,7 +6,10 @@ input[type="email"]
 {
     width:400px;
 }
-input[type:"text"]
+
+.form-container
 {
-    width: 200px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

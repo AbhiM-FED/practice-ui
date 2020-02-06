@@ -1,8 +1,5 @@
-.leftcoloumn
+.BTdesign
 {
-    text-align: left;
-}
-.rightcoloumn
-{
-    text-align:right;
+    background-color:aqua;
+    border-color: red;
 }
