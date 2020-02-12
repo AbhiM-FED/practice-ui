@@ -1,0 +1,23 @@
+
+
+
+.border
+{
+    border: 2px solid black;
+}
+
+.section{
+    width: 50%;
+}
+
+.maindiv {
+    
+    display: -webkit-box;
+}
+.imagesize
+{
+    width:660px;
+    height: 630px;
+}
+
+
