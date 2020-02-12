@@ -1,5 +1,35 @@
-.BTdesign
+.borderalign
 {
-    background-color:aqua;
-    border-color: red;
+    border: 1px solid black;
+    border-width:thin;
+    width: 500px;
+    height: 500px;
+
+    
 }
+.display
+{
+    display: inline-block;
+}
+.divide {
+    width:50%;
+}
+.swidth
+{
+    width:50px;
+    text-align: justify-all;
+}
+.twidth
+{
+    width:300px;
+    
+     
+}
+.bsize
+{
+    width: 70px;
+    height: 30px;
+    background-color: cornflowerblue;
+    border-radius: 40px;
+}
+
