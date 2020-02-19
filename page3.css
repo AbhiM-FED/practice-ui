@@ -1,0 +1,75 @@
+.size1
+{
+    text-align: center;
+}
+.imagesize
+{
+        width: 200px;
+        height: 150px;
+}
+.size2
+{
+    width:20%;
+}
+.size3
+{
+    width:80%;
+    text-align: center;
+    background-color: #1f1742;
+}
+
+
+.display
+{
+    display: inline-flex;
+    width:100%;
+    
+}
+.size4
+{
+    width:50%;
+    padding:10px;
+}
+.size5
+{
+    width:50%;
+    padding: 10px;
+}
+.Hcolor
+{
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 20px;
+    border-bottom: 2px solid #fab225;
+    word-spacing: 2px;
+    border-radius: 4px;
+}
+
+.BT
+    {
+        background-color: #38a2d1;
+        border: none;
+        border-radius: 40px;
+        width: 227px;
+        height: 52px;
+        color: white;
+        font-size: 22px;
+        margin-bottom:30px;
+}
+.Tdesignleft
+{
+    margin: 20px;
+    margin-left: 160px;
+    padding: 10px;
+}
+.Tdesignright
+{
+    margin: 20px;
+    margin-right: 160px;
+    padding: 10px  
+}
+.height
+{
+    height:500px;
+}

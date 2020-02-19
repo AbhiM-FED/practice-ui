@@ -1,0 +1,119 @@
+.size1
+{
+    text-align: center;
+}
+.imagesize
+{
+        width: 200px;
+        height: 150px;
+}
+.BT
+    {
+        background-color: #38a2d1;
+        border: none;
+        border-radius: 40px;
+        width: 227px;
+        height: 52px;
+        color: white;
+        font-size: 22px;
+        margin-bottom:30px;
+}
+.container1
+{
+    display: inline-flex;
+    width:100%;
+}
+.Emptydivision
+{
+    width:20%;
+}
+.submain
+{
+    width:80%;
+    text-align: center;
+    background-color: #1f1742;
+    display: inline-flex;
+}
+.Emptydivision1
+{
+    width:30%;
+}
+.maincontainer
+{
+    width:60%;
+    
+}
+
+.h1
+{
+    border-bottom:  2px solid #fab225;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    word-spacing: 10px;
+}
+.subdivision1
+{
+    width:100%;
+}
+.subdivision2
+{
+    width:100%;
+}
+.subdivision3
+{
+    width:100%;
+}
+.subdivision4
+{
+    width:100%;
+    display: inline-flex;
+}
+.tb1
+{
+    width: 45%;
+    height: 40px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.tb2
+{
+    width: 45%;
+    height: 40px;
+    margin-bottom: 30px;
+}
+.tb3
+{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+}
+.tb4
+{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 30px;
+}
+.tb5
+{
+    width: 40%;
+    height: 40px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.tb6
+{
+    width: 20%;
+    height: 40px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.tb7
+{
+    width: 30%;
+    height: 40px;
+    margin-bottom: 30px;
+
+}
+
