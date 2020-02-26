@@ -1,0 +1,80 @@
+.alignment
+{
+    text-align: center;
+}
+.imgsize
+{
+    width: 15%;
+}
+
+.page
+{
+    text-align: center;
+    background-color: #1f1742;
+
+}
+.size
+{
+    width:100%;
+}
+@font-face {
+  font-family: Dense;
+  src: url("fonts/Dense-Regular.otf");
+}
+@font-face {
+  font-family: Avenir_Book;
+  src: url("fonts/Avenir Book.ttf");
+}
+@font-face {
+  font-family:Avenir_light;
+  src: url("fonts/avenirltstd-light.otf");
+}
+.fontsize
+{
+    color: white;
+    font-size: 65px;
+    font-family: Dense;
+    padding-bottom: 10px;
+    word-spacing: 5px;
+    margin-top: 50px;
+}
+.color
+{
+    border-top: 1px solid #fab225;
+    width: 100%;
+    margin-top: -1%;
+}
+.MG
+{
+    margin-top: 30px;
+}
+.tb
+{
+    width: 100%;
+    height: 35px; 
+}
+.cb
+{
+    color: white;
+    font-family: Avenir_light;
+    text-align: left;
+}
+.cbstyle
+{
+    float: left;
+    transform: scale(1.5);
+}
+.BT
+{
+
+        background-color: #38a2d1;
+        border: none;
+        border-radius: 40px;
+        width: 227px;
+        height: 52px;
+        color: white;
+        font-size: 22px;
+        margin-bottom:30px;
+        font-family: Avenir_Book;
+}
+
